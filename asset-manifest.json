@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/random-vid/static/css/main.2fec0d28.chunk.css",
+    "main.css": "/random-vid/static/css/main.735dbe03.chunk.css",
     "main.js": "/random-vid/static/js/main.e80049e0.chunk.js",
     "main.js.map": "/random-vid/static/js/main.e80049e0.chunk.js.map",
     "runtime-main.js": "/random-vid/static/js/runtime-main.7f1da762.js",
@@ -8,9 +8,9 @@
     "static/js/2.b41586e0.chunk.js": "/random-vid/static/js/2.b41586e0.chunk.js",
     "static/js/2.b41586e0.chunk.js.map": "/random-vid/static/js/2.b41586e0.chunk.js.map",
     "index.html": "/random-vid/index.html",
-    "precache-manifest.4daf838cfcc8a781abe9d371a0405374.js": "/random-vid/precache-manifest.4daf838cfcc8a781abe9d371a0405374.js",
+    "precache-manifest.2b88b89bf1f94d99d060fed560069e95.js": "/random-vid/precache-manifest.2b88b89bf1f94d99d060fed560069e95.js",
     "service-worker.js": "/random-vid/service-worker.js",
-    "static/css/main.2fec0d28.chunk.css.map": "/random-vid/static/css/main.2fec0d28.chunk.css.map",
+    "static/css/main.735dbe03.chunk.css.map": "/random-vid/static/css/main.735dbe03.chunk.css.map",
     "static/js/2.b41586e0.chunk.js.LICENSE.txt": "/random-vid/static/js/2.b41586e0.chunk.js.LICENSE.txt",
     "static/media/cooking.svg": "/random-vid/static/media/cooking.a0a9754b.svg",
     "static/media/Presets.css": "/random-vid/static/media/wildlife.3c470755.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.7f1da762.js",
     "static/js/2.b41586e0.chunk.js",
-    "static/css/main.2fec0d28.chunk.css",
+    "static/css/main.735dbe03.chunk.css",
     "static/js/main.e80049e0.chunk.js"
   ]
 }

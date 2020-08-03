@@ -82,10 +82,9 @@
 }
 @media (max-width: 520px) {
   .heading {
-    margin-top: -15px;
+    margin-top: -10px;
     font-size: 6px;
     margin-left: 2px;
-    text-align: center;
   }
 }
 

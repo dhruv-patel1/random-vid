@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  width: 15vw;
+  align-items: center;
+  padding-left: 60px;
+}
+
+.logo {
+  width: 70px;
+  height: 50px;
+}
+
+.title {
+  font-family: "Pattaya", sans-serif;
+  margin-left: 8px;
+  font-size: 35px;
+  padding-top: 5px;
+  color: #0256c5;
+  margin-top: 17px;
+  text-shadow: 2px 2px 2px #30e3ca;
+}

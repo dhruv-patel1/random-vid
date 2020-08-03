@@ -1,0 +1,163 @@
+.button-container {
+  min-height: 10vh;
+  width: 80vw;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  align-items: center;
+  margin-top: 5px;
+}
+
+@media (max-width: 520px) {
+  .button-container {
+    width: 90vw;
+  }
+}
+
+.preset:focus {
+  outline: none;
+}
+.preset {
+  position: relative;
+  width: 160px;
+  height: 45px;
+  border-radius: 4px;
+  border: none;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 1050px) {
+  .preset {
+    width: 110px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 720px) {
+  .preset {
+    width: 80px;
+    height: 30px;
+  }
+}
+
+@media (max-width: 520px) {
+  .preset {
+    width: 55px;
+    height: 20px;
+  }
+}
+
+.opac {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  border: none;
+  background-color: white;
+  opacity: 0.3;
+}
+
+.heading {
+  position: relative;
+  font-family: "Pattaya", sans-serif;
+  font-size: 18px;
+  margin-left: 6px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 1050px) {
+  .heading {
+    font-size: 14px;
+    margin-left: 4px;
+  }
+}
+
+@media (max-width: 720px) {
+  .heading {
+    font-size: 10px;
+  }
+}
+@media (max-width: 520px) {
+  .heading {
+    font-size: 8px;
+    margin-left: 1px;
+  }
+}
+
+.icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  margin-left: 3px;
+}
+
+@media (max-width: 1050px) {
+  .icon {
+    width: 15px;
+    height: 15px;
+  }
+}
+
+@media (max-width: 720px) {
+  .icon {
+    width: 10px;
+    height: 10px;
+    margin-left: 1px;
+  }
+}
+@media (max-width: 520px) {
+  .icon {
+    width: 6px;
+    height: 6px;
+    margin-left: -2px;
+  }
+}
+
+.carousel-control-prev-icon {
+  color: black;
+}
+
+.travel {
+  background: url("../assets/travel.jpg");
+}
+
+.nature {
+  background: url("../assets/nature.jpg");
+}
+
+.tech {
+  background: url("../assets/tech.jpg");
+}
+
+.gaming {
+  background: url("../assets/gaming.jpg");
+}
+
+.fitness {
+  background: url("../assets/fitness.jpg");
+}
+
+.cooking {
+  background: url("../assets/cooking.jpg");
+}
+
+.entertainment {
+  background: url("../assets/entertainment.jpg");
+}
+
+.news {
+  background: url("../assets/news.jpg");
+}
+
+.relax {
+  background: url("../assets/relax.jpg");
+}
+
+.wildlife {
+  background: url("../assets/wildlife.jpg");
+}

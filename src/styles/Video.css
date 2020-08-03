@@ -1,0 +1,11 @@
+.video-player {
+  top: 10px;
+  position: relative;
+  margin: auto;
+  max-height: 100%;
+  max-width: 100%;
+  min-height: 64vh;
+  min-width: 70vw;
+  border: 2px solid #30e3ca;
+  border-radius: 2px;
+}

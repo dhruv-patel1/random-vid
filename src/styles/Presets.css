@@ -83,8 +83,9 @@
 @media (max-width: 520px) {
   .heading {
     font-size: 6px;
-    text-align: center;
-    margin-bottom: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 }
 
